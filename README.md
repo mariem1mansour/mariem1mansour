@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariem Mansour</h1>
-<h3 align="center">A passionate full stack developer from Tunisia</h3>
+<h3 align="center">A Software Engineering Student from Tunisia</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on DevPingu Project<br><br>🌱 I’m currently learning Django<br><br>👯 I’m looking to collaborate on full-stack projects<br><br>💬 Ask me about ReactJS<br><br>📫 How to reach me: mariemmansour7777@gmail.com<br><br>⚡ Fun fact, I think I am funny
